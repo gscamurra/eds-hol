@@ -5,7 +5,7 @@
       "id": "library",
       "title": "Library",
       "environments": [ "dev", "edit" ],
-      "url": "https://main--eds-hands-on-lab--gscamurra.aem.page/tools/sidekick/library.html",
+      "url": "https://main--eds-hol--gscamurra.aem.page/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
     },
     {
@@ -32,7 +32,7 @@
     {
       "id": "readme",
       "title": "Hands on Lab - README",
-      "url": "https://main--eds-hands-on-lab--gscamurra.aem.page/readme",
+      "url": "https://main--eds-hol--gscamurra.aem.page/readme",
       "passConfig": true,
       "environments": ["preview","live", "edit"],
       "includePaths": ["**.docx**"]
