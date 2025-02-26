@@ -9,6 +9,14 @@
       "includePaths": [ "**.docx**" ]
     },
     {
+      "id": "readme",
+      "title": "Hands on Lab - README",
+      "url": "https://main--eds-hol--gscamurra.aem.page/readme",
+      "passConfig": true,
+      "environments": ["preview","live", "edit"],
+      "includePaths": ["**.docx**"]
+    },
+    {
       "id": "asset-library",
       "title": "AEM Assets Library",
       "environments": [
@@ -20,14 +28,6 @@
         "**.docx**"
       ],
       "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)"
-    },
-    {
-      "id": "readme",
-      "title": "Hands on Lab - README",
-      "url": "https://main--eds-hol--gscamurra.aem.page/readme",
-      "passConfig": true,
-      "environments": ["preview","live", "edit"],
-      "includePaths": ["**.docx**"]
     },
     {
       "id": "generate-variations",
